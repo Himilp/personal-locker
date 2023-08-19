@@ -3,6 +3,8 @@ here basic ransomware it is safe not infect all file on pc only affect on folder
 
 
 required
+
 kali linux 
+
 python updated version
 
