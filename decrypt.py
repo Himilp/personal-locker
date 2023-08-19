@@ -18,7 +18,18 @@ print(files)
 with open("thekey.key", "rb") as key:
 	secretkey = key.read()
 	
+############################################
+############################################
+############################################
+# here is the secrectphrase you can chage as per you like
+
 secretphrase = "hi"
+
+# here is the secrectphrase you can chage as per you like
+############################################
+############################################
+############################################
+
 
 user_phrase = input ("enter the secret phrase to decrypt your files\n")
 
